@@ -1,0 +1,215 @@
+{
+    "assembleia": "001 - 17/09/2025",
+    "grupoPrazo": "024",
+    "grupo": "1005",
+    "credito": null,
+    "bensCredito": [
+        {
+            "credito": "R$10.000,00",
+            "bens": [
+                {
+                    "codigo": "TK10",
+                    "bemName": "TK10",
+                    "credito": "10.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "36 x R$122,41",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK10",
+                    "bemName": "TK10",
+                    "credito": "10.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "24 x R$171,19",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$9.000,00",
+            "bens": [
+                {
+                    "codigo": "TK9 ",
+                    "bemName": "TK9",
+                    "credito": "9.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "36 x R$110,17",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK9 ",
+                    "bemName": "TK9",
+                    "credito": "9.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "24 x R$154,07",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$8.000,00",
+            "bens": [
+                {
+                    "codigo": "TK8 ",
+                    "bemName": "TK8",
+                    "credito": "8.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "36 x R$97,93",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK8 ",
+                    "bemName": "TK8",
+                    "credito": "8.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "24 x R$136,95",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$7.000,00",
+            "bens": [
+                {
+                    "codigo": "TK7 ",
+                    "bemName": "TK7",
+                    "credito": "7.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "36 x R$85,69",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK7 ",
+                    "bemName": "TK7",
+                    "credito": "7.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "24 x R$119,83",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$6.000,00",
+            "bens": [
+                {
+                    "codigo": "TK6 ",
+                    "bemName": "TK6",
+                    "credito": "6.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "36 x R$73,45",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK6 ",
+                    "bemName": "TK6",
+                    "credito": "6.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "24 x R$102,71",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$5.000,00",
+            "bens": [
+                {
+                    "codigo": "TK5 ",
+                    "bemName": "TK5",
+                    "credito": "5.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "36 x R$61,21",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK5 ",
+                    "bemName": "TK5",
+                    "credito": "5.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "24 x R$85,60",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$4.000,00",
+            "bens": [
+                {
+                    "codigo": "TK4 ",
+                    "bemName": "TK4",
+                    "credito": "4.000,00",
+                    "grupo": "1003",
+                    "prazo": "036",
+                    "parcela": "36 x R$48,96",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK4 ",
+                    "bemName": "TK4",
+                    "credito": "4.000,00",
+                    "grupo": "1005",
+                    "prazo": "024",
+                    "parcela": "24 x R$68,48",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$3.000,00",
+            "bens": [
+                {
+                    "codigo": "TK3 ",
+                    "bemName": "TK3",
+                    "credito": "3.000,00",
+                    "grupo": "1003",
+                    "prazo": "036",
+                    "parcela": "36 x R$36,72",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK3 ",
+                    "bemName": "TK3",
+                    "credito": "3.000,00",
+                    "grupo": "1005",
+                    "prazo": "024",
+                    "parcela": "24 x R$51,36",
+                    "planCode": "0005037"
+                }
+            ]
+        },
+        {
+            "credito": "R$2.000,00",
+            "bens": [
+                {
+                    "codigo": "TK2 ",
+                    "bemName": "TK2",
+                    "credito": "2.000,00",
+                    "grupo": "1003",
+                    "prazo": "036",
+                    "parcela": "36 x R$24,48",
+                    "planCode": "0005036"
+                },
+                {
+                    "codigo": "TK2 ",
+                    "bemName": "TK2",
+                    "credito": "2.000,00",
+                    "grupo": "1005",
+                    "prazo": "024",
+                    "parcela": "24 x R$34,24",
+                    "planCode": "0005037"
+                }
+            ]
+        }
+    ]
+}
