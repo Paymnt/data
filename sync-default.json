@@ -1,269 +1,305 @@
 {
-  "assembleia": "001 - 17/09/2025",
-  "grupoPrazo": "024",
-  "grupo": "1005",
-  "credito": null,
-  "bensCredito": [
-    {
-      "credito": "R$10.000,00",
-      "bens": [
+    "assembleia": "001 - 17/09/2025",
+    "grupoPrazo": "024",
+    "grupo": "1005",
+    "credito": null,
+    "bensCredito": [
         {
-          "codigo": "TK10",
-          "bemName": "TK10",
-          "credito": "10.000,00",
-          "grupo": "1002",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 10 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$122,41",
-          "wppDescParcela": "+35 Parcelas de R$122,41"
+            "credito": "R$10.000,00",
+            "bens": [
+                {
+                    "codigo": "TK10",
+                    "bemName": "TK10",
+                    "credito": "10.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "122.41",
+                    "planCode": "0005036",
+                    "restanteParcela": "408.05",
+                    "wppTituloCredito": "Crédito de 10 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$122,41",
+                    "wppDescParcela": "+35 Parcelas de R$408,05"
+                },
+                {
+                    "codigo": "TK10",
+                    "bemName": "TK10",
+                    "credito": "10.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "171.19",
+                    "planCode": "0005037",
+                    "restanteParcela": "570.50",
+                    "wppTituloCredito": "Crédito de 10 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$171,19",
+                    "wppDescParcela": "+23 Parcelas de R$570,50"
+                }
+            ]
         },
         {
-          "codigo": "TK10",
-          "bemName": "TK10",
-          "credito": "10.000,00",
-          "grupo": "1004",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 10 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$171,19",
-          "wppDescParcela": "+23 Parcelas de R$171,19"
-        }
-      ]
-    },
-    {
-      "credito": "R$9.000,00",
-      "bens": [
-        {
-          "codigo": "TK9 ",
-          "bemName": "TK9",
-          "credito": "9.000,00",
-          "grupo": "1002",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 9 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$110,17",
-          "wppDescParcela": "+35 Parcelas de R$110,17"
+            "credito": "R$9.000,00",
+            "bens": [
+                {
+                    "codigo": "TK9 ",
+                    "bemName": "TK9",
+                    "credito": "9.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "110.17",
+                    "planCode": "0005036",
+                    "restanteParcela": "367.24",
+                    "wppTituloCredito": "Crédito de 9 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$110,17",
+                    "wppDescParcela": "+35 Parcelas de R$367,24"
+                },
+                {
+                    "codigo": "TK9 ",
+                    "bemName": "TK9",
+                    "credito": "9.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "154.07",
+                    "planCode": "0005037",
+                    "restanteParcela": "513.45",
+                    "wppTituloCredito": "Crédito de 9 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$154,07",
+                    "wppDescParcela": "+23 Parcelas de R$513,45"
+                }
+            ]
         },
         {
-          "codigo": "TK9 ",
-          "bemName": "TK9",
-          "credito": "9.000,00",
-          "grupo": "1004",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 9 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$154,07",
-          "wppDescParcela": "+23 Parcelas de R$154,07"
-        }
-      ]
-    },
-    {
-      "credito": "R$8.000,00",
-      "bens": [
-        {
-          "codigo": "TK8 ",
-          "bemName": "TK8",
-          "credito": "8.000,00",
-          "grupo": "1002",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 8 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$97,93",
-          "wppDescParcela": "+35 Parcelas de R$97,93"
+            "credito": "R$8.000,00",
+            "bens": [
+                {
+                    "codigo": "TK8 ",
+                    "bemName": "TK8",
+                    "credito": "8.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "97.93",
+                    "planCode": "0005036",
+                    "restanteParcela": "326.44",
+                    "wppTituloCredito": "Crédito de 8 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$97,93",
+                    "wppDescParcela": "+35 Parcelas de R$326,44"
+                },
+                {
+                    "codigo": "TK8 ",
+                    "bemName": "TK8",
+                    "credito": "8.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "136.95",
+                    "planCode": "0005037",
+                    "restanteParcela": "456.40",
+                    "wppTituloCredito": "Crédito de 8 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$136,95",
+                    "wppDescParcela": "+23 Parcelas de R$456,40"
+                }
+            ]
         },
         {
-          "codigo": "TK8 ",
-          "bemName": "TK8",
-          "credito": "8.000,00",
-          "grupo": "1004",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 8 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$136,95",
-          "wppDescParcela": "+23 Parcelas de R$136,95"
-        }
-      ]
-    },
-    {
-      "credito": "R$7.000,00",
-      "bens": [
-        {
-          "codigo": "TK7 ",
-          "bemName": "TK7",
-          "credito": "7.000,00",
-          "grupo": "1002",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 7 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$85,69",
-          "wppDescParcela": "+35 Parcelas de R$85,69"
+            "credito": "R$7.000,00",
+            "bens": [
+                {
+                    "codigo": "TK7 ",
+                    "bemName": "TK7",
+                    "credito": "7.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "85.69",
+                    "planCode": "0005036",
+                    "restanteParcela": "285.63",
+                    "wppTituloCredito": "Crédito de 7 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$85,69",
+                    "wppDescParcela": "+35 Parcelas de R$285,63"
+                },
+                {
+                    "codigo": "TK7 ",
+                    "bemName": "TK7",
+                    "credito": "7.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "119.83",
+                    "planCode": "0005037",
+                    "restanteParcela": "399.35",
+                    "wppTituloCredito": "Crédito de 7 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$119,83",
+                    "wppDescParcela": "+23 Parcelas de R$399,35"
+                }
+            ]
         },
         {
-          "codigo": "TK7 ",
-          "bemName": "TK7",
-          "credito": "7.000,00",
-          "grupo": "1004",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 7 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$119,83",
-          "wppDescParcela": "+23 Parcelas de R$119,83"
-        }
-      ]
-    },
-    {
-      "credito": "R$6.000,00",
-      "bens": [
-        {
-          "codigo": "TK6 ",
-          "bemName": "TK6",
-          "credito": "6.000,00",
-          "grupo": "1002",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 6 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$73,45",
-          "wppDescParcela": "+35 Parcelas de R$73,45"
+            "credito": "R$6.000,00",
+            "bens": [
+                {
+                    "codigo": "TK6 ",
+                    "bemName": "TK6",
+                    "credito": "6.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "73.45",
+                    "planCode": "0005036",
+                    "restanteParcela": "244.83",
+                    "wppTituloCredito": "Crédito de 6 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$73,45",
+                    "wppDescParcela": "+35 Parcelas de R$244,83"
+                },
+                {
+                    "codigo": "TK6 ",
+                    "bemName": "TK6",
+                    "credito": "6.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "102.71",
+                    "planCode": "0005037",
+                    "restanteParcela": "342.30",
+                    "wppTituloCredito": "Crédito de 6 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$102,71",
+                    "wppDescParcela": "+23 Parcelas de R$342,30"
+                }
+            ]
         },
         {
-          "codigo": "TK6 ",
-          "bemName": "TK6",
-          "credito": "6.000,00",
-          "grupo": "1004",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 6 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$102,71",
-          "wppDescParcela": "+23 Parcelas de R$102,71"
-        }
-      ]
-    },
-    {
-      "credito": "R$5.000,00",
-      "bens": [
-        {
-          "codigo": "TK5 ",
-          "bemName": "TK5",
-          "credito": "5.000,00",
-          "grupo": "1002",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 5 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$61,21",
-          "wppDescParcela": "+35 Parcelas de R$61,21"
+            "credito": "R$5.000,00",
+            "bens": [
+                {
+                    "codigo": "TK5 ",
+                    "bemName": "TK5",
+                    "credito": "5.000,00",
+                    "grupo": "1002",
+                    "prazo": "036",
+                    "parcela": "61.21",
+                    "planCode": "0005036",
+                    "restanteParcela": "204.02",
+                    "wppTituloCredito": "Crédito de 5 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$61,21",
+                    "wppDescParcela": "+35 Parcelas de R$204,02"
+                },
+                {
+                    "codigo": "TK5 ",
+                    "bemName": "TK5",
+                    "credito": "5.000,00",
+                    "grupo": "1004",
+                    "prazo": "024",
+                    "parcela": "85.60",
+                    "planCode": "0005037",
+                    "restanteParcela": "285.25",
+                    "wppTituloCredito": "Crédito de 5 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$85,60",
+                    "wppDescParcela": "+23 Parcelas de R$285,25"
+                }
+            ]
         },
         {
-          "codigo": "TK5 ",
-          "bemName": "TK5",
-          "credito": "5.000,00",
-          "grupo": "1004",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 5 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$85,60",
-          "wppDescParcela": "+23 Parcelas de R$85,60"
-        }
-      ]
-    },
-    {
-      "credito": "R$4.000,00",
-      "bens": [
-        {
-          "codigo": "TK4 ",
-          "bemName": "TK4",
-          "credito": "4.000,00",
-          "grupo": "1003",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 4 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$48,96",
-          "wppDescParcela": "+35 Parcelas de R$48,96"
+            "credito": "R$4.000,00",
+            "bens": [
+                {
+                    "codigo": "TK4 ",
+                    "bemName": "TK4",
+                    "credito": "4.000,00",
+                    "grupo": "1003",
+                    "prazo": "036",
+                    "parcela": "48.96",
+                    "planCode": "0005036",
+                    "restanteParcela": "163.22",
+                    "wppTituloCredito": "Crédito de 4 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$48,96",
+                    "wppDescParcela": "+35 Parcelas de R$163,22"
+                },
+                {
+                    "codigo": "TK4 ",
+                    "bemName": "TK4",
+                    "credito": "4.000,00",
+                    "grupo": "1005",
+                    "prazo": "024",
+                    "parcela": "68.48",
+                    "planCode": "0005037",
+                    "restanteParcela": "228.20",
+                    "wppTituloCredito": "Crédito de 4 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$68,48",
+                    "wppDescParcela": "+23 Parcelas de R$228,20"
+                }
+            ]
         },
         {
-          "codigo": "TK4 ",
-          "bemName": "TK4",
-          "credito": "4.000,00",
-          "grupo": "1005",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 4 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$68,48",
-          "wppDescParcela": "+23 Parcelas de R$68,48"
-        }
-      ]
-    },
-    {
-      "credito": "R$3.000,00",
-      "bens": [
-        {
-          "codigo": "TK3 ",
-          "bemName": "TK3",
-          "credito": "3.000,00",
-          "grupo": "1003",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 3 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$36,72",
-          "wppDescParcela": "+35 Parcelas de R$36,72"
+            "credito": "R$3.000,00",
+            "bens": [
+                {
+                    "codigo": "TK3 ",
+                    "bemName": "TK3",
+                    "credito": "3.000,00",
+                    "grupo": "1003",
+                    "prazo": "036",
+                    "parcela": "36.72",
+                    "planCode": "0005036",
+                    "restanteParcela": "122.41",
+                    "wppTituloCredito": "Crédito de 3 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$36,72",
+                    "wppDescParcela": "+35 Parcelas de R$122,41"
+                },
+                {
+                    "codigo": "TK3 ",
+                    "bemName": "TK3",
+                    "credito": "3.000,00",
+                    "grupo": "1005",
+                    "prazo": "024",
+                    "parcela": "51.36",
+                    "planCode": "0005037",
+                    "restanteParcela": "171.15",
+                    "wppTituloCredito": "Crédito de 3 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$51,36",
+                    "wppDescParcela": "+23 Parcelas de R$171,15"
+                }
+            ]
         },
         {
-          "codigo": "TK3 ",
-          "bemName": "TK3",
-          "credito": "3.000,00",
-          "grupo": "1005",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 3 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$51,36",
-          "wppDescParcela": "+23 Parcelas de R$51,36"
+            "credito": "R$2.000,00",
+            "bens": [
+                {
+                    "codigo": "TK2 ",
+                    "bemName": "TK2",
+                    "credito": "2.000,00",
+                    "grupo": "1003",
+                    "prazo": "036",
+                    "parcela": "24.48",
+                    "planCode": "0005036",
+                    "restanteParcela": "81.61",
+                    "wppTituloCredito": "Crédito de 2 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$24,48",
+                    "wppDescParcela": "+35 Parcelas de R$81,61"
+                },
+                {
+                    "codigo": "TK2 ",
+                    "bemName": "TK2",
+                    "credito": "2.000,00",
+                    "grupo": "1005",
+                    "prazo": "024",
+                    "parcela": "34.24",
+                    "planCode": "0005037",
+                    "restanteParcela": "114.10",
+                    "wppTituloCredito": "Crédito de 2 Mil Reais",
+                    "wppDescCredito": "",
+                    "wppTituloParcela": "1º Parcela de R$34,24",
+                    "wppDescParcela": "+23 Parcelas de R$114,10"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "credito": "R$2.000,00",
-      "bens": [
-        {
-          "codigo": "TK2 ",
-          "bemName": "TK2",
-          "credito": "2.000,00",
-          "grupo": "1003",
-          "prazo": "036",
-          "planCode": "0005036",
-          "wppTituloCredito": "Crédito de 2 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$24,48",
-          "wppDescParcela": "+35 Parcelas de R$24,48"
-        },
-        {
-          "codigo": "TK2 ",
-          "bemName": "TK2",
-          "credito": "2.000,00",
-          "grupo": "1005",
-          "prazo": "024",
-          "planCode": "0005037",
-          "wppTituloCredito": "Crédito de 2 Mil Reais",
-          "wppDescCredito": "",
-          "wppTituloParcela": "1º Parcela de R$34,24",
-          "wppDescParcela": "+23 Parcelas de R$34,24"
-        }
-      ]
-    }
-  ]
+    ]
 }
